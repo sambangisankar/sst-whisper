@@ -1,0 +1,39 @@
+audio_1|American Drug maker Johnson & Johnson has suspended its phase 3 covid-19 vaccine trial
+audio_2|the suspension came after a patient in the study had unexplained illness
+audio_3|a month ago British drugmaker AstraZeneca also temporarily stopped its vaccine trial after an unexplained illness
+audio_4|Johnson & Johnson said in a statement Monday night that illness is accidents and other bad results are an expected part of any clinical study especially large study
+audio_5|and it said a group of independent safety experts as well as its own scientist
+audio_6|are trying to learn the cause of the illness
+audio_7|the study halt was first reported by the medical News website staff
+audio_8|Johnson & Johnson entered the third and final part or phase of vaccine tested on September 22nd
+audio_9|it was seeking 60,000 volunteers for its phase 3 trial in the United States and other countries
+audio_10|it's vaccine candidate is a single injection treatment
+audio_11|the others are two shot treatment
+audio_12|during phase 3 trials researchers look for any signs of possible side effects
+audio_13|the trials also judge Effectiveness by studying who gets sick and who does not among patients taking part in them
+audio_14|people in one group get a shot of the experimental vaccine
+audio_15|people in another group receive an injection of an inactive substance
+audio_16|my time Amman is head of drug research and development at Johnson & Johnson
+audio_17|he told an investors meeting Tuesday that the company informed the independent safety experts about the illness on Sunday
+audio_18|the experts asked for more information and the company is gathering it he said
+audio_19|Mammon added that the company does not yet know if the ill person had been given the experimental vaccine or the inactive substance
+audio_20|temporary stoppages of large medical studies are fairly common
+audio_21|you are made public during the trial
+audio_22|the company noted that the suspension is voluntary
+audio_23|Health officials did not order it
+audio_24|the World Health Organization said recently as much as 10% of the world's population may have been infected with covid-19
+audio_25|and Johns Hopkins University reported that more than 1 million people have died from the virus
+audio_26|everybody is on the alert because of what happened with AstraZeneca
+audio_27|dr. William Schaffner said in an email to Reuters news agency
+audio_28|he is a professor of infectious diseases at the endervelt University School of Medicine in Tennessee
+audio_29|last month AstraZeneca working with the University of Oxford in Britain
+audio_30|temporarily stopped its phase 3 trial
+audio_31|the company later said a woman in the study had developed inflammation in her spine
+audio_32|the trial has since restarted in Britain Brazil India and South Africa
+audio_33|but it is still on hold in the US
+audio_34|other vaccine candidates that have entered phase 3 trials include ones from moderna and Pfizer working with Germany's bio and Tech
+audio_35|China has had at least three different vaccines in Phase 3 human trials
+audio_36|and Russia has one
+audio_37|late on Tuesday drugmaker Eli Lilly announced that it had temporarily stopped its covid linked antibody drug trials for safety reasons
+audio_38|this experimental treatment is similar to the combined antibody treatment from regeneron given to u.s. President Donald Trump on October 2nd
+audio_39|I'm Katy Weaver
